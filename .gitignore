@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Dataset
+Data/MachineLearningCVE/
+Data/*.csv
+Data/*.zip
+
+# Large model files
+Models/*.keras
+Models/*.h5
+Models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
